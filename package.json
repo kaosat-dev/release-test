@@ -6,6 +6,10 @@
   "scripts": {
     "test": "tape src/**/*.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaosat-dev/release-test.git"
+  },
   "author": "Mark 'kaosat-dev' Moissette",
   "license": "MIT",
   "dependencies": {
